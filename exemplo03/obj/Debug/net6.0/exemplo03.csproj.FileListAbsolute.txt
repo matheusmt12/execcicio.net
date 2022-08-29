@@ -1,0 +1,15 @@
+C:\Users\201800067030\source\repos\Exemplo2csharp\exemplo03\bin\Debug\net6.0\exemplo03.exe
+C:\Users\201800067030\source\repos\Exemplo2csharp\exemplo03\bin\Debug\net6.0\exemplo03.deps.json
+C:\Users\201800067030\source\repos\Exemplo2csharp\exemplo03\bin\Debug\net6.0\exemplo03.runtimeconfig.json
+C:\Users\201800067030\source\repos\Exemplo2csharp\exemplo03\bin\Debug\net6.0\exemplo03.dll
+C:\Users\201800067030\source\repos\Exemplo2csharp\exemplo03\bin\Debug\net6.0\exemplo03.pdb
+C:\Users\201800067030\source\repos\Exemplo2csharp\exemplo03\obj\Debug\net6.0\exemplo03.csproj.AssemblyReference.cache
+C:\Users\201800067030\source\repos\Exemplo2csharp\exemplo03\obj\Debug\net6.0\exemplo03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\201800067030\source\repos\Exemplo2csharp\exemplo03\obj\Debug\net6.0\exemplo03.AssemblyInfoInputs.cache
+C:\Users\201800067030\source\repos\Exemplo2csharp\exemplo03\obj\Debug\net6.0\exemplo03.AssemblyInfo.cs
+C:\Users\201800067030\source\repos\Exemplo2csharp\exemplo03\obj\Debug\net6.0\exemplo03.csproj.CoreCompileInputs.cache
+C:\Users\201800067030\source\repos\Exemplo2csharp\exemplo03\obj\Debug\net6.0\exemplo03.dll
+C:\Users\201800067030\source\repos\Exemplo2csharp\exemplo03\obj\Debug\net6.0\refint\exemplo03.dll
+C:\Users\201800067030\source\repos\Exemplo2csharp\exemplo03\obj\Debug\net6.0\exemplo03.pdb
+C:\Users\201800067030\source\repos\Exemplo2csharp\exemplo03\obj\Debug\net6.0\exemplo03.genruntimeconfig.cache
+C:\Users\201800067030\source\repos\Exemplo2csharp\exemplo03\obj\Debug\net6.0\ref\exemplo03.dll
