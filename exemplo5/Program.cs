@@ -5,10 +5,13 @@
 
         class TempRecord
         {
-            private float[] temps = new float[10] {56.2f,56.3f,25.2f,58.6f,
-                                                78.4f,78.5f,13.4f,59.7f,85.5f,78.3f};
+            private float[] temps = new float[10] {56.2F,56.3F,25.2F,58.6F,
+                                                78.4F,78.5F,13.4F,59.7F,85.5F,78.3F};
 
-            public float[] Temps { get { return temps; } } 
+            public int Length
+            {
+                get { return temps.Length; }
+            }
             
 
             public float this[int index]
@@ -21,15 +24,15 @@
         static void Main(string[] args)
         {
             TempRecord tempRecord = new TempRecord();
-            tempRecord[3] = 58.3f;
-            tempRecord[5] = 60.1f;
+            tempRecord[3] = 58.3F;
+            tempRecord[5] = 60.1F;
 
             for (int i = 0; i < 10; i++)
             {
-                Console.WriteLine("Element #{0) = {1}", i, tempRecord[i]);
+                System.Console.WriteLine("Element #{0} = {1}", i, tempRecord[i]);
             }
-            Console.WriteLine("Press any key to exit.");
-            Console.ReadLine(); 
+            System.Console.WriteLine("Press any key to exit.");
+            System.Console.ReadLine(); 
         }
     }
 }
